@@ -1,2 +1,2 @@
 # cygvin_ansible
-install  cygvin  on widows  and  ansible pip install
+install  cygwin  on widows  and  ansible pip install
