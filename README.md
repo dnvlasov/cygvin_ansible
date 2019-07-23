@@ -15,7 +15,7 @@ Server01 | UNREACHABLE! => {
     "unreachable": true
 }
 ```
-export line shell comand
+export line shell command
 ```
 export ANSIBLE_SSH_ARGS="-o ControlMaster=no"
 ```
