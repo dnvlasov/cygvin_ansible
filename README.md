@@ -15,7 +15,18 @@ Server01 | UNREACHABLE! => {
     "unreachable": true
 }
 ```
+<<<<<<< HEAD
 export line shell command
+=======
+export line shell command and add ansible.cfg
+>>>>>>> config
 ```
 export ANSIBLE_SSH_ARGS="-o ControlMaster=no"
+```
+ansgible.cfg
+```
+[ssh_connection]
+ssh_args = -o ControlMaster=no
+
+
 ```
